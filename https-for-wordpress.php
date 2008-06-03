@@ -4,7 +4,7 @@ Plugin Name: HTTPS for WordPress
 Plugin URI: 
 Description: Check to see if SSL is used. This will update any template functions which require SSL to be used.
 Author: Chris Black
-Version: .1a
+Version: .2
 Author URI: http://cjbonline.org
 */
 
